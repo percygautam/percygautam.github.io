@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+title: Blog
+landing-title: 'THE BLOG'
+description: It's where I write about the technical stuff.
 image: null
 author: null
 show_tile: false

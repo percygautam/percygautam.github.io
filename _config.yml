@@ -1,11 +1,11 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Blog
+subtitle: Piyush Gautam
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Piyush Gautam
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -15,7 +15,7 @@ phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings
 500px_url:
