@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Pre-GSoC journey</h3>
+					<h3>Journey to GSoC</h3>
 				</header>
-				<p>I started contributing to ArviZ from January this year.</p>
+				<p>This post is going to describe my journey of being selected as the student developer for Numfocus::ArviZ under Google summer of code an overview of my project.</p>
 				<ul class="actions">
-					<li><a href="gsoc/pre-GSOC.html" class="button">Know More</a></li>
+					<li><a href="gsoc/gsoc_journey.html" class="button">Know More</a></li>
 				</ul>
 			</div>
 		</div>
