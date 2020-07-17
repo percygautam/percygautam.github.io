@@ -67,7 +67,7 @@ nav-menu: true
 			</header>
 			<p>This post describes the period of first phase: adding methods and testing</p>
 			<ul class="actions">
-				<li><a href="gsoc/phase-I.html" class="button">Know more</a></li>
+				<li><a href="gsoc/phase-I.html" class="button">Continue</a></li>
 			</ul>
 		</div>
 	</div>
