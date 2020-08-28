@@ -2,7 +2,7 @@
 title: Google Summer of Code Blog
 layout: landing
 description: 'Blog depicting my GSoC journey'
-image: assets/images/pic07.jpg
+image: assets/images/GSoC-2020.jpeg
 nav-menu: true
 ---
 
@@ -72,7 +72,57 @@ nav-menu: true
 		</div>
 	</div>
 	</section>
-
+	<section>
+	<a href="gsoc/half-gsoc.html" class="image">
+		<img src="{% link assets/images/bayesfun.jpg%}" alt="" data-position="top center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Half GSoC reached</h3>
+				<p>20 July 2020</p>
+			</header>
+			<p>This post describes the journey till half-gsoc period.</p>
+			<ul class="actions">
+				<li><a href="gsoc/half-gsoc.html" class="button">Continue</a></li>
+			</ul>
+		</div>
+	</div>
+	</section>
+	<section>
+	<a href="gsoc/phase-II.html" class="image">
+		<img src="{% link assets/images/phase-II.jpg%}" alt="" data-position="top center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>End of Phase II</h3>
+				<p>4 August 2020</p>
+			</header>
+			<p>This post describes the period of second phase: adding custom methods and testing</p>
+			<ul class="actions">
+				<li><a href="gsoc/phase-II.html" class="button">Continue</a></li>
+			</ul>
+		</div>
+	</div>
+	</section>
+	<section>
+	<a href="gsoc/final_eval.html" class="image">
+		<img src="{% link assets/images/GSoC-2020.jpeg%}" alt="" data-position="top center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Final Evaluation</h3>
+				<p>28 August 2020</p>
+			</header>
+			<p>This post describes the GSoC project in detail, the goals achieved and the learnings.</p>
+			<ul class="actions">
+				<li><a href="gsoc/final_eval.html" class="button">Continue</a></li>
+			</ul>
+		</div>
+	</div>
+	</section>
 
 </section>
 

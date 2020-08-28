@@ -7,7 +7,7 @@ date: 26 June 2020
 show_tile: false
 ---
 
-<p align = "justify">Hi everyone, this is Piyush and I am here with the 3rd iteration of my series of blogs depicting my journey in the GSOC program. If you haven’t read my previous blogs, you can do so <a href="/../gsoc.html">here</a> and keep up.</p>
+<p align = "justify">Hi everyone, this is Piyush and I am here with the 5th iteration of my series of blogs depicting my journey in the GSOC program. If you haven’t read my previous blogs, you can do so <a href="/../gsoc.html">here</a> and keep up.</p>
 
 <p align = "justify">The first phase of coding period started on June 1, 2020. I started following a fixed schedule starting from this period. I allotted a minimum of 5 to 6 hours daily and more hours during weekend. This helped me maintain the balance between my personal life and work life.</p>
 
